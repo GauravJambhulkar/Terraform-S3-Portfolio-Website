@@ -31,8 +31,8 @@ This project uses Terraform to deploy a static website on AWS S3. The setup incl
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/s3-static-website.git
-    cd s3-static-website
+    https://github.com/GauravJambhulkar/Terraform-S3-Portfolio-Website.git
+    cd Terraform-S3-Portfolio-Website
     ```
 
 2. Initialize Terraform:
@@ -47,6 +47,3 @@ This project uses Terraform to deploy a static website on AWS S3. The setup incl
 
 4. Enter your desired S3 bucket name when prompted.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
